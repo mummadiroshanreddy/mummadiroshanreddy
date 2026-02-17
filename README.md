@@ -1,5 +1,59 @@
-# 💫 About Me:
-## 👋 Hi, I'm Roshan Reddy<br><br>I'm a Data Engineer with 4+ years of experience designing and building scalable data pipelines and cloud-based data solutions. I specialize in transforming complex datasets into efficient, reliable systems that support analytics and business decision-making.<br><br>### 🚀 Technical Skills<br>- **Programming:** Python, SQL, PySpark<br>- **Big Data:** Apache Spark, Airflow, Kafka, Hadoop<br>- **Cloud Platforms:** AWS, Azure, Google Cloud Platform (GCP)<br>- **Data Warehouses:** Snowflake, BigQuery, Redshift<br>- **Tools & Technologies:** Databricks, Docker, Git, ETL/ELT Pipelines<br><br>### ☁️ What I Do<br>- Build scalable ETL/ELT pipelines<br>- Develop cloud-native data solutions<br>- Optimize data workflows and performance<br>- Work with large-scale distributed systems<br>- Design data warehouse and analytics solutions<br><br>### 📌 Interests<br>- Data Engineering<br>- Cloud Computing<br>- Big Data Technologies<br>- Distributed Systems<br><br>
+# 👋 Hi, I'm Roshan Reddy
+
+🚀 Data Engineer | AWS | Azure | GCP | Spark | Snowflake | Databricks | Python | SQL  
+
+I'm a passionate **Data Engineer with 4+ years of experience** building scalable, reliable, and high-performance data pipelines and cloud-native data platforms. I specialize in designing end-to-end ETL/ELT workflows, optimizing data processing systems, and enabling data-driven decision-making across enterprise environments.
+
+I have hands-on experience working with **AWS, Azure, and Google Cloud Platform**, developing batch and real-time data pipelines using modern big data tools and distributed systems.
+
+---
+
+## 🛠️ Core Expertise
+
+- ⚙️ Build scalable ETL/ELT pipelines using Python, SQL, and PySpark  
+- ☁️ Develop cloud-native data solutions on AWS, Azure, and GCP  
+- 📊 Design and optimize data warehouses (Snowflake, BigQuery, Redshift)  
+- 🔄 Implement workflow orchestration using Apache Airflow  
+- 🚀 Process large-scale data using Apache Spark and distributed systems  
+- 🧩 Design data models for analytics and business intelligence  
+
+---
+
+## 💻 Tech Stack
+
+**Languages:**  
+Python • SQL • PySpark • Scala  
+
+**Big Data & Processing:**  
+Apache Spark • Apache Airflow • Kafka • Hadoop  
+
+**Cloud Platforms:**  
+AWS • Azure • Google Cloud Platform (GCP)  
+
+**Data Warehouses:**  
+Snowflake • BigQuery • Redshift  
+
+**Tools & Technologies:**  
+Databricks • Docker • Git • ETL/ELT Pipelines • Data Modeling  
+
+---
+
+## 📈 What I'm Currently Focused On
+
+- Building scalable cloud data platforms  
+- Optimizing ETL pipeline performance  
+- Developing real-time data processing systems  
+- Enhancing data architecture and reliability  
+
+---
+## ⚡ Fun Fact
+
+I enjoy working with large-scale distributed systems and transforming raw data into meaningful insights that drive business impact.
+
+---
+
+⭐ Always open to collaborating on Data Engineering and Cloud projects.
+
 
 
 ## 🌐 Socials:
