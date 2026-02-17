@@ -129,17 +129,6 @@ Implemented secure AI model deployment and client interaction.
 - Built AI deployment architecture  
 - Implemented secure client communication  
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mummadiroshanreddy&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mummadiroshanreddy&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
