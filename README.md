@@ -1,175 +1,164 @@
-# 👋 Hi, I'm Roshan Reddy
+<!-- Header -->
+<h1 align="center">Hi 👋, I'm Roshan Reddy</h1>
+<h3 align="center">Data Engineer | AWS • Azure • GCP • Spark • Snowflake • Databricks</h3>
 
-🚀 Data Engineer | AWS | Azure | GCP | Spark | Snowflake | Databricks | Python | SQL  
+<p align="center">
+Building scalable cloud data platforms, ETL pipelines, and distributed data systems.
+</p>
 
-I'm a passionate **Data Engineer with 4+ years of experience** building scalable, reliable, and high-performance data pipelines and cloud-native data platforms. I specialize in designing end-to-end ETL/ELT workflows, optimizing data processing systems, and enabling data-driven decision-making across enterprise environments.
-
-I have hands-on experience working with **AWS, Azure, and Google Cloud Platform**, developing batch and real-time data pipelines using modern big data tools and distributed systems.
-
----
-
-# 🛠️ Core Expertise
-
-- Build scalable ETL/ELT pipelines using Python, SQL, and PySpark  
-- Develop cloud-native data solutions on AWS, Azure, and GCP  
-- Design and optimize data warehouses (Snowflake, BigQuery, Redshift)  
-- Implement workflow orchestration using Apache Airflow  
-- Process large-scale data using Apache Spark  
-- Design data models for analytics and business intelligence  
+<p align="center">
+<a href="https://www.linkedin.com/in/roshan-reddy-mummadi-6b264a364/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Roshan%20Reddy-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:roshanreddy480@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+</a>
+</p>
 
 ---
 
-# 💻 Tech Stack
+# 🚀 About Me
 
-### Programming Languages
-Python • SQL • PySpark • Scala  
+I am a **Data Engineer with 4+ years of experience** building scalable, reliable, and high-performance data pipelines and cloud-native data platforms.
 
-### Big Data Technologies
-Apache Spark • Apache Airflow • Kafka • Hadoop  
+I specialize in:
+
+- Designing end-to-end ETL/ELT pipelines  
+- Building scalable cloud data architectures  
+- Processing large-scale data using Spark and distributed systems  
+- Developing real-time and batch data pipelines  
+- Supporting analytics and business intelligence systems  
+
+I have hands-on experience with **AWS, Azure, and Google Cloud Platform**, working on enterprise-scale data engineering solutions.
+
+---
+
+# 🛠️ Technical Skills
+
+### Programming
+![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python)
+![SQL](https://img.shields.io/badge/SQL-Advanced-blue)
+![PySpark](https://img.shields.io/badge/PySpark-Advanced-orange)
+
+### Big Data
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-Expert-orange)
+![Apache Airflow](https://img.shields.io/badge/Airflow-Advanced-red)
+![Kafka](https://img.shields.io/badge/Kafka-Intermediate-black)
 
 ### Cloud Platforms
-AWS • Azure • Google Cloud Platform (GCP)  
+![AWS](https://img.shields.io/badge/AWS-Advanced-yellow?logo=amazon-aws)
+![Azure](https://img.shields.io/badge/Azure-Advanced-blue?logo=microsoft-azure)
+![GCP](https://img.shields.io/badge/GCP-Advanced-green?logo=google-cloud)
 
 ### Data Warehouses
-Snowflake • BigQuery • Redshift  
-
-### Tools
-Databricks • Docker • Git • ETL/ELT Pipelines • Data Modeling  
-
----
-
-# 📂 Portfolio Projects
+![Snowflake](https://img.shields.io/badge/Snowflake-Expert-blue)
+![BigQuery](https://img.shields.io/badge/BigQuery-Advanced-blue)
+![Redshift](https://img.shields.io/badge/Redshift-Advanced-red)
 
 ---
 
-## 1. Amazon Product Recommendation System  
+# 📂 Featured Projects
+
+## Amazon Product Recommendation System
 📅 Jan 2024 – Mar 2024  
+🔗 https://github.com/mummadiroshanreddy/Final_data_Engineering_Project  
 
-🔗 GitHub:  
-https://github.com/mummadiroshanreddy/Final_data_Engineering_Project  
+Built a scalable recommendation engine using collaborative filtering and SVD.
 
-### Description
-Developed an end-to-end product recommendation system using collaborative filtering and matrix factorization (SVD). Built a Flask web application to generate personalized product recommendations based on user interaction data.
+**Tech:** Python, Flask, Pandas, NumPy, Scikit-learn  
 
-### Technologies Used
-Python, Pandas, NumPy, SciPy, Scikit-learn, Flask  
-
-### Key Achievements
-- Built scalable recommendation engine  
-- Implemented collaborative filtering algorithm  
-- Developed web interface using Flask  
-- Processed and analyzed large datasets  
+**Impact:**
+- Developed personalized recommendation system  
+- Built web app using Flask  
+- Implemented scalable data processing  
 
 ---
 
-## 2. News Summarization using Transformers  
+## News Summarization using Transformers
 📅 Feb 2024 – Apr 2024  
+🔗 https://github.com/mummadiroshanreddy/news-summarization  
 
-🔗 GitHub:  
-https://github.com/mummadiroshanreddy/news-summarization  
+Built NLP system using transformer models to summarize news articles.
 
-### Description
-Developed an NLP-based news summarization system using transformer models to generate concise summaries from lengthy news articles.
+**Tech:** Python, Transformers, NLP  
 
-### Technologies Used
-Python, Transformers, NLP, Pandas, NumPy  
-
-### Key Achievements
-- Implemented transformer-based NLP model  
-- Built automated text summarization system  
+**Impact:**
+- Built automated summarization pipeline  
 - Processed large-scale text datasets  
+- Implemented modern NLP architecture  
 
 ---
 
-## 3. AI Tic Tac Toe using Reinforcement Learning  
+## AI Reinforcement Learning Game Agent
 📅 Jan 2024 – May 2024  
+🔗 https://github.com/mummadiroshanreddy/AI-Final-Project  
 
-🔗 GitHub:  
-https://github.com/mummadiroshanreddy/AI-Final-Project  
+Developed AI agents using reinforcement learning and adversarial search.
 
-### Description
-Built intelligent AI agents using reinforcement learning, Minimax, and Alpha-Beta pruning algorithms to play Tic Tac Toe optimally.
+**Tech:** Python, Q-Learning, Minimax  
 
-### Technologies Used
-Python, Reinforcement Learning, Q-Learning  
-
-### Key Achievements
-- Developed intelligent AI agents  
-- Implemented adversarial search algorithms  
-- Built reinforcement learning model  
+**Impact:**
+- Built intelligent decision-making system  
+- Implemented reinforcement learning algorithms  
 
 ---
 
-## 4. Data Engineering Pipeline Project  
+## Data Engineering ETL Pipeline
 📅 Jan 2024 – Mar 2024  
+🔗 https://github.com/mummadiroshanreddy/Data-Enginnering-Project  
 
-🔗 GitHub:  
-https://github.com/mummadiroshanreddy/Data-Enginnering-Project  
+Designed ETL pipeline for structured data processing.
 
-### Description
-Designed and implemented an ETL pipeline to extract, transform, and process structured data using Python and data engineering tools.
+**Tech:** Python, Pandas, ETL  
 
-### Technologies Used
-Python, Pandas, ETL  
-
-### Key Achievements
-- Built end-to-end ETL pipeline  
-- Implemented scalable data processing workflows  
-- Applied data transformation techniques  
+**Impact:**
+- Built scalable ETL workflow  
+- Processed structured datasets  
 
 ---
 
-## 5. AI Model Deployment and Security Project  
+## AI Model Deployment System
 📅 Jan 2024 – Mar 2024  
+🔗 https://github.com/mummadiroshanreddy/DSCI6015-Midterm-Project  
 
-🔗 GitHub:  
-https://github.com/mummadiroshanreddy/DSCI6015-Midterm-Project  
+Implemented secure AI model deployment and client interaction.
 
-### Description
-Developed and deployed an AI system with secure client-server communication and model interaction workflows.
+**Tech:** Python, Machine Learning  
 
-### Technologies Used
-Python, Machine Learning, Jupyter Notebook  
-
-### Key Achievements
-- Implemented secure AI model deployment  
-- Built client-server interaction system  
-- Demonstrated secure AI workflows  
+**Impact:**
+- Built AI deployment architecture  
+- Implemented secure client communication  
 
 ---
 
 # 📊 GitHub Stats
 
-![Roshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mummadiroshanreddy&show_icons=true&theme=dark)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mummadiroshanreddy&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mummadiroshanreddy&layout=compact&theme=dark)
-
----
-
-# 🌐 Connect With Me
-
-LinkedIn:  
-https://www.linkedin.com/in/roshan-reddy-mummadi-6b264a364/
-
-GitHub:  
-https://github.com/mummadiroshanreddy
-
-Email:  
-roshanreddy480@gmail.com
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mummadiroshanreddy&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-# 📈 Career Focus
+# 🎯 Career Focus
 
 - Data Engineering  
 - Cloud Data Platforms  
-- Big Data Processing  
 - ETL Pipeline Development  
 - Distributed Systems  
+- Big Data Processing  
 
 ---
 
-# ⭐ Portfolio Status
+# 📫 Contact Me
 
-Active and continuously improving with real-world Data Engineering and AI projects.
+- LinkedIn: https://www.linkedin.com/in/roshan-reddy-mummadi-6b264a364/
+- Email: roshanreddy480@gmail.com
+- GitHub: https://github.com/mummadiroshanreddy
 
+---
+
+⭐ Open to Data Engineer, Cloud Data Engineer, and Big Data Engineer roles.
